@@ -21,6 +21,6 @@ $ git clone https://github.com/beta-robots/motor_controller.git
 Take a look at the examples/motor_motion.ino file to play with the motor controller or get inspiration for your 
 developments.
 
-![Wiring example of the motor controller](https://github.com/beta-robots/accelerometer_adxl335/blob/master/media/20160318_154117.jpg)
+![Wiring example of the motor controller](https://github.com/beta-robots/accelerometer_adxl335/blob/master/media/xxx.jpg)
 
 
